@@ -1,0 +1,21 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Huo"
+    given-names: "Dongyan (Lucy)"
+  - family-names: "Chen"
+    given-names: "Yudong"
+  - family-names: "Dai"
+    given-names: "Jim"
+  - family-names: "Xie"
+    given-names: "Qiaomin"
+title: "Switch Scheduling via Reinforcement Learning"
+url: "https://github.com/lucyhuodongyan/RL4Switch"
+repository-code: "https://github.com/lucyhuodongyan/RL4Switch"
+keywords:
+  - "Reinforcement Learning"
+  - "Switch Scheduling"
+  - "Proximal Policy Optimization"
+  - "Atomic Action PPO"
+license: "MIT"
+
